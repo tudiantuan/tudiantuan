@@ -10,7 +10,7 @@ body {
 #ekyc_sdk_intergrated {
   background-color: #122f41 !important;
   /* background: #fff; */
-  padding: 50px 0 50px 0;
+  padding: 30px 0;
 }
 
 .sdk-ekyc-container {
@@ -121,9 +121,8 @@ body {
 #ekyc_sdk_intergrated .progressbar {
   counter-reset: step;
   width: 20%;
-  height: 55px;
-  margin: 10px auto 47px auto;
-  padding-left: 20px;
+  margin: 10px auto 10px auto;
+  padding-left: 0;
 }
 
 #ekyc_sdk_intergrated .step1-demo-ekyc .header-title {
